@@ -277,3 +277,4 @@ class AppAluno(Gtk.Window):
 if __name__ == "__main__":
     app = AppAluno()
     Gtk.main()
+    
