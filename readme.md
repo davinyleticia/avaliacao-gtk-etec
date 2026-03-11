@@ -2,15 +2,6 @@
 
 Este sistema foi desenvolvido para facilitar a aplicação de provas multidisciplinares em ambientes de laboratório, utilizando **Python 3** e **GTK 3**. O foco é a praticidade para o professor e a segurança na integridade das respostas através de criptografia.
 
-### 👩‍🏫 Autora
-
-**Dáviny Letícia Vidal** * **Website:** [vidal.press](https://vidal.press)
-
-* **GitHub:** [@davinyleticia](https://github.com/davinyleticia)
-* **Licença:** GNU GPL v3.0
-
----
-
 ## 🚀 Como Funciona?
 
 1. **App Aluno:** O aluno preenche seus dados (Nome e RM), seleciona a disciplina e responde às 10 questões (uma por página com barra de progresso). Ao finalizar, o app gera um **Token Criptografado** (Fernet).
